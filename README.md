@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @travisshetter
 - 👀 I’m interested in ...DSP, Audio Coding, Algorithmic Composition 
 - 🌱 I’m currently learning ...Music Technology @ NYU
-- 💞️ I’m looking to collaborate on ...Plugin Development 
+- 💞️ I’m looking to collaborate on ...Plug-in Development, TidalCycle Algorithms  
 - 📫 How to reach me ...tms434@nyu.edu
 
 <!---
